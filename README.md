@@ -103,4 +103,6 @@ the only downside is it takes lot of time to normalize the text.
 
 ***Dataset taken from kaggle**
 """
-Additional: url https://drive.google.com/drive/folders/1jiJNeODlO76f6I0j5CNPzjCU1lOguWJ-
+
+Additional:  apply method in python
+url for stock dataset https://drive.google.com/drive/folders/1jiJNeODlO76f6I0j5CNPzjCU1lOguWJ-
