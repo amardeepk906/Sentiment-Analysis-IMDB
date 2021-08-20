@@ -4,7 +4,7 @@ Sentiment Analysis of IMDB dataset
 Sentiments: positive or negative review
 
 Dataset:
-2 columns (Text, sentiments)
+2 columns (Text, sentiments) --- IMDB Dataset taken from kaggle containing 50k review
 
 
 Method-1: Linear Regression
