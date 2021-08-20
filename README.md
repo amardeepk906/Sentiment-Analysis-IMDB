@@ -8,15 +8,11 @@ Dataset:
 
 
 Method-1: Linear Regression
-
 Method-2: Linear svm
-
 Method-3: multinomial naive bayes
 
 For each method we have applied:
-
 1. bag of words vectorizer method
-
 
 2. tfidf matrix vectorizer method
 
