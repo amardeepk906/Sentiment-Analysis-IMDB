@@ -5,6 +5,7 @@ Sentiments: positive or negative review
 
 Dataset:
 2 columns (Text, sentiments) --- IMDB Dataset taken from kaggle containing 50k review
+url-https://www.kaggle.com/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews#
 
 
 Method-1: Linear Regression
