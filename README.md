@@ -1,16 +1,23 @@
 # Sentiment-Analysis-IMDB
 Sentiment Analysis of IMDB dataset 
+
 Sentiments: positive or negative review
 
 Dataset:
 2 columns (Text, sentiments)
 
+
 Method-1: Linear Regression
+
 Method-2: Linear svm
+
 Method-3: multinomial naive bayes
 
 For each method we have applied:
+
 1. bag of words vectorizer method
+
+
 2. tfidf matrix vectorizer method
 
 
